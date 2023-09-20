@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36148c59-ae99-4027-9f22-2d712d1b4ed9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/ButtonTryFree/ButtonTryFree.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/ButtonTryFree/ButtonTryFree.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/ImageMagician/ImageMagician.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/ImageMagician/ImageMagician.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/NameMiddle/NameMiddle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/NameMiddle/NameMiddle.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/TextMiddle/TextMiddle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Midle/TextMiddle/TextMiddle.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Button_login/button_login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Button_login/button_login.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/images/button_login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/images/button_try_free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claimer_app/src/images/image_magician.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SmartClaimer_FD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/claimer_app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/claimer_app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/components/Header/Background/background.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/components/Header/Background/background.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Buttom_registration/buttom_registration.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Buttom_registration/button_registration.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Buttom_registration/buttom_registration.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Buttom_registration/button_registration.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Logo/logo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Logo/logo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Name/name.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/claimer_app/src/components/Header/Title/Name/name.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claimer_app/src/images/buttom_reg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/claimer_app/src/images/button_reg.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2VZK214u62feAXtRkYTzmOOhQ9T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Aleksey/WebstormProjects/SmartClaimer_FD/claimer_app/src/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksey\WebstormProjects\SmartClaimer_FD\claimer_app\src\images" />
+      <recent name="C:\Users\Aleksey\WebstormProjects\SmartClaimer_FD\claimer_app\src\components\Header\Title\Name" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksey\WebstormProjects\SmartClaimer_FD\claimer_app\src\images" />
+      <recent name="C:\Users\Aleksey\WebstormProjects\SmartClaimer_FD\claimer_app\src\components\Header\Background" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36148c59-ae99-4027-9f22-2d712d1b4ed9" name="Changes" comment="" />
+      <created>1695037955326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695037955326</updated>
+      <workItem from="1695037959108" duration="7190000" />
+      <workItem from="1695195564179" duration="6022000" />
+      <workItem from="1695208547839" duration="12677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

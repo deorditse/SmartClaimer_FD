@@ -1,0 +1,39 @@
+.header {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 12px    ;
+}
+.content {
+    padding: 0 32px;
+    display: flex;
+    justify-content: space-between;
+}
+.buttonBlock {
+    display: flex;
+    gap: 12px;
+}
+.titleBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+.middle {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 60px
+}
+
+.imageBlock {
+    display: flex;
+    margin-right: 70px;
+    gap: 12px;
+}
+
+.midleBlock {
+    position: absolute;
+    top: calc(50% - 100px);
+    /*left: 1000px;*/
+    margin-top: -185px;
+    margin-left: 80px;
+}

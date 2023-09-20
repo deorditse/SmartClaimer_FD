@@ -1,6 +1,6 @@
 import React from 'react';
-import classes from './buttom_registration.module.css';
-import logoImage from '../../../../images/buttom_reg.svg'
+import classes from './button_registration.module.css';
+import logoImage from '../../../../images/button_reg.svg'
 const ButtomRegistration = () => {
     return (
         <div className={classes.buttom_registration}>
