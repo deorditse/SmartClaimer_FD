@@ -8,6 +8,7 @@
     display: flex;
     justify-content: space-between;
 }
+
 .buttonBlock {
     display: flex;
     gap: 12px;
@@ -21,19 +22,36 @@
 .middle {
     max-width: 1440px;
     margin: 0 auto;
-    margin-top: 60px
+    margin-top: 60px;
+
 }
 
-.imageBlock {
-    display: flex;
-    margin-right: 70px;
-    gap: 12px;
-}
 
 .midleBlock {
-    position: absolute;
-    top: calc(50% - 100px);
-    /*left: 1000px;*/
-    margin-top: -185px;
-    margin-left: 80px;
+    position: relative;
+    width: 100%;
+    max-width: 630px; /* Фиксированная ширина */
+    height: auto; /* Высота автоматически рассчитывается */
+    margin: 376px 0 0 80px; /* Задаем отступы с помощью margin */
+    gap: 32px; /* Расстояние между элементами */
+}
+
+.imageContainer {
+    position: relative;
+    width: 100%;
+    max-width: 1440px;
+    height: auto;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+.imageContainer img {
+    width: 100%;
+    height: auto;
+}
+
+.opportunities {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 60px
 }
