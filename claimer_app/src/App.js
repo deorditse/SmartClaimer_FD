@@ -8,6 +8,8 @@ import NameMiddle from "./components/Header/Midle/NameMiddle/NameMiddle";
 import TextMiddle from "./components/Header/Midle/TextMiddle/TextMiddle";
 import ButtonTryFree from "./components/Header/Midle/ButtonTryFree/ButtonTryFree";
 import ImageMagician from "./components/Header/Midle/ImageMagician/ImageMagician";
+import TitleOpportunities from "./components/Opportunities/Title/Title";
+import Square from "./components/Opportunities/Square/Square";
 // import {Logo,ButtomRegistration,Name,ButtonLogin,NameMiddle,TextMiddle,ButtonTryFree,ImageMagician} from "./components"
 const App = (props) => {
     return (
@@ -38,18 +40,17 @@ const App = (props) => {
                 </div>
             </div>
 
-            {/*<div className={styles.opportunities}>*/}
-            {/*    <div className={styles.content}>*/}
-            {/*        <div className={styles.titleBlock}>*/}
-            {/*            <Name/>*/}
-            {/*            <Logo/>*/}
-            {/*        </div>*/}
-            {/*        <div className={styles.buttonBlock}>*/}
-            {/*            <ButtomRegistration/>*/}
-            {/*            <ButtonLogin/>*/}
-            {/*        </div>*/}
-            {/*    </div>*/}
-            {/*</div>*/}
+            <div className={styles.opportunities}>
+                <div className={styles.content}>
+                    <div className={styles.title_opportunities}>
+                        <TitleOpportunities/>
+                        <Square/>
+                    </div>
+                    {/*<div className={styles.square}>*/}
+                    {/*    <Square/>*/}
+                    {/*</div>*/}
+                </div>
+            </div>
 
         </>
     );

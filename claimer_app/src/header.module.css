@@ -1,10 +1,11 @@
 .header {
     max-width: 1440px;
     margin: 0 auto;
-    margin-top: 12px    ;
+    margin-top: 12px;
 }
+
 .content {
-    padding: 0 32px;
+    padding: 0 80px;
     display: flex;
     justify-content: space-between;
 }
@@ -13,12 +14,14 @@
     display: flex;
     gap: 12px;
 }
+
 .titleBlock {
     display: flex;
     flex-direction: column;
     gap: 8px;
 
 }
+
 .middle {
     max-width: 1440px;
     margin: 0 auto;
@@ -37,21 +40,16 @@
 }
 
 .imageContainer {
-    position: relative;
+    /*background-color: white;*/
     width: 100%;
     max-width: 1440px;
-    height: auto;
-    margin: 0 auto;
-    z-index: 1;
-}
-
-.imageContainer img {
-    width: 100%;
-    height: auto;
+    margin-left: -700px;
 }
 
 .opportunities {
     max-width: 1440px;
     margin: 0 auto;
-    margin-top: 60px
+    margin-top: 120px
 }
+
+

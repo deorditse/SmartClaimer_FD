@@ -1,9 +1,9 @@
 import React from 'react';
 import classes from './ImageMagician.module.css';
-import logoImage from '../../../../images/image_magician.svg'
+import logoImage from '../../../../images/qwe.png'
 const ImageMagician = () => {
     return (
-        <div className={classes.image_magician}>
+        <div className={classes.imageContainer}>
             <img src={logoImage} alt="Логотип" />
         </div>
     );
