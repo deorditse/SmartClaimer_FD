@@ -1,0 +1,11 @@
+.modulbloc {
+    background-color: rebeccapurple;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: visible;
+    border-radius: 15px;
+}
